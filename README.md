@@ -21,5 +21,26 @@ High shipping costs in certain regions are eroding profit margins, causing those
 5. Which regions present the highest potential for margin improvement if shipping costs are optimized?
 
 ## Metrics & Definitions
-📊**Core Metrics**
+1️⃣ **Revenue**
+
 Total sales value per order / region
+
+
+2️⃣ **Profit**
+
+Total profit value per order / region
+
+
+3️⃣ **Profit Margin**
+
+Profit / Revenue
+
+
+4️⃣ **Shipping Cost**
+
+Total shipping expense per order / region
+
+
+5️⃣ **Shipping Cost Ratio**
+
+Shipping Cost / Revenue
