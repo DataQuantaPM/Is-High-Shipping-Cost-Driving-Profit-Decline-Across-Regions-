@@ -19,3 +19,7 @@ High shipping costs in certain regions are eroding profit margins, causing those
 3. Is higher shipping cost associated with lower profit margins in certain regions?
 4. Are profit losses concentrated in a small number of regions with high shipping costs?
 5. Which regions present the highest potential for margin improvement if shipping costs are optimized?
+
+## Metrics & Definitions
+📊**Core Metrics**
+Total sales value per order / region
