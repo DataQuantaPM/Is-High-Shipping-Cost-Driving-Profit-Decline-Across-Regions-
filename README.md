@@ -12,3 +12,10 @@ Determine whether the company should optimize, adjust, or partially reduce regio
 
 ## Problem Hypothesis
 High shipping costs in certain regions are eroding profit margins, causing those regions to underperform financially despite stable or growing revenue.
+
+## Business Question
+1. Which regions are underperforming in terms of profitability?
+2. How significant is shipping cost relative to revenue across regions?
+3. Is higher shipping cost associated with lower profit margins in certain regions?
+4. Are profit losses concentrated in a small number of regions with high shipping costs?
+5. Which regions present the highest potential for margin improvement if shipping costs are optimized?
