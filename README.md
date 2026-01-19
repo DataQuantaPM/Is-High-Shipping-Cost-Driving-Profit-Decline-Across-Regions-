@@ -2,45 +2,41 @@
 <img src="E Commerce.jpg" width="800">
 
 
-## Business Context
+## 📌 Business Context
 The company operates a **Global E-Commerce Business** serving customers across multiple regions. While overall revenue performance appears stable, **Business Management** has raised concerns about uneven profitability across regions. Preliminary observations suggest that certain regions generate high order volume but contribute disproportionately low or negative profit. As a **Business Data Analyst**, this project aims to evaluate whether regional shipping costs are a key driver behind the observed profit decline and to support decisions on optimizing the regional shipping strategy.
 
-## Projects Outputs
+## 📌 Projects Outputs
 
-## Decision Statement
+## 📌 Decision Statement
 Determine whether the company should optimize, adjust, or partially reduce regional shipping subsidies to improve overall profitability.
 
-## Problem Hypothesis
+## 📌 Problem Hypothesis
 High shipping costs in certain regions are eroding profit margins, causing those regions to underperform financially despite stable or growing revenue.
 
-## Business Question
-1. Which regions are underperforming in terms of profitability?
-2. How significant is shipping cost relative to revenue across regions?
-3. Is higher shipping cost associated with lower profit margins in certain regions?
-4. Are profit losses concentrated in a small number of regions with high shipping costs?
-5. Which regions present the highest potential for margin improvement if shipping costs are optimized?
+## 📌 Business Question
+1️⃣ Which regions are underperforming in terms of profitability?
 
-## Metrics & Definitions
-1️⃣ **Revenue**
+2️⃣ How significant is shipping cost relative to revenue across regions?
 
-Total sales value per order / region
+3️⃣ Is higher shipping cost associated with lower profit margins in certain regions?
 
+4️⃣ Are profit losses concentrated in a small number of regions with high shipping costs?
 
-2️⃣ **Profit**
+5️⃣ Which regions present the highest potential for margin improvement if shipping costs are optimized?
 
-Total profit value per order / region
+## 📌 Metrics & Definitions
+1️⃣ **Revenue :** Total sales value per order / region
 
 
-3️⃣ **Profit Margin**
-
-Profit / Revenue
+2️⃣ **Profit :** Total profit value per order / region
 
 
-4️⃣ **Shipping Cost**
-
-Total shipping expense per order / region
+3️⃣ **Profit Margin :** Profit / Revenue
 
 
-5️⃣ **Shipping Cost Ratio**
+4️⃣ **Shipping Cost :** Total shipping expense per order / region
 
-Shipping Cost / Revenue
+
+5️⃣ **Shipping Cost Ratio :** Shipping Cost / Revenue
+
+6️⃣ **Delivery Mode / Priority :** Ship Mode by region
