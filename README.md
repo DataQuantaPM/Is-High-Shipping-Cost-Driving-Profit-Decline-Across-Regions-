@@ -96,6 +96,58 @@ Implement region-specific shipping policies rather than a uniform global approac
 
 ## 📌 Trade-offs & Risks
 
+**1. Reduced Customer Satisfaction from Limited Premium Shipping**
+
+Restricting Same Day and First Class shipping options in low-margin regions may negatively impact customer experience, particularly for customers who value fast delivery. This could lead to lower customer satisfaction scores or reduced repeat purchase rates in the short term.
+
+**Trade-off:**
+Margin improvement vs. potential decline in service-level perception.
+
+<br>
+
+**2. Potential Revenue Impact from Order Friction**
+
+Introducing order-value thresholds for premium shipping may discourage smaller orders or increase cart abandonment rates, especially in price-sensitive markets.
+
+**Trade-off:**
+Improved unit economics vs. possible reduction in order volume.
+
+<br>
+
+**3. Competitive Disadvantage in Certain Markets**
+
+If competitors continue offering premium shipping options without restrictions, limiting these services may weaken competitive positioning in regions where delivery speed is a key differentiator.
+
+**Trade-off:**
+Cost control vs. market competitiveness.
+
+<br>
+
+**4. Operational Complexity from Regional Fulfillment Policies**
+
+Implementing region-specific shipping rules increases operational complexity, requiring tighter coordination across logistics, pricing, and customer experience teams.
+
+**Trade-off:**
+More precise cost control vs. higher operational overhead.
+
+<br>
+
+**5. Risk of Misinterpreting Demand Elasticity**
+
+Shipping mode changes assume that demand in loss-making regions is relatively inelastic to delivery speed. If customers are more sensitive to shipping speed than expected, order volume may decline more sharply than anticipated.
+
+**Trade-off:**
+Cost optimization vs. uncertainty in customer behavior response.
+
+<br>
+
+**6. Short-Term Performance Volatility**
+
+Margin improvements from shipping policy changes may take time to materialize, while negative customer reactions could appear immediately.
+
+**Trade-off:**
+Short-term volatility vs. long-term profitability sustainability.
+
 <br>
 
 ## 📌 Expected Impact
