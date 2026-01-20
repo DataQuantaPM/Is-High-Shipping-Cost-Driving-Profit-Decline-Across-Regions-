@@ -60,10 +60,36 @@ High shipping costs in certain regions are eroding profit margins, causing those
 <br>
 
 ## 📌 Key Insights
+1️⃣ Profitability is highly concentrated in a small number of countries, while several regions consistently generate losses.
+
+2️⃣ Loss-making countries are constrained by structural cost inefficiencies rather than insufficient demand.
+
+3️⃣ Shipping cost per order is globally consistent. however, its impact is disproportionately damaging in low-revenue regions.
+
+4️⃣ Premium shipping modes significantly increase cost per order without delivering proportional profit uplift.
+
+5️⃣ Overuse of Same Day and First Class shipping particularly in Guatemala emerges as a primary driver of margin erosion.
+
+6️⃣ Unit-level profitability analysis confirms that Same Day shipping is economically unsustainable in low-margin markets.
 
 <br>
 
-## 📌 Recommendation
+## 📌 Business Recommendation
+🔹 **Recommendation 1 — Restrict Premium Shipping in Low-Margin Regions**
+
+    Limit Same Day and First Class shipping options in Guatemala and Ukraine, where unit-level profitability is consistently negative.
+
+🔹 **Recommendation 2 — Introduce Order-Value Thresholds**
+
+Enable premium shipping only for orders exceeding a defined revenue threshold to ensure cost recovery.
+
+🔹 **Recommendation 3 — Default to Cost-Efficient Fulfillment**
+
+Position Standard and Second Class shipping as default fulfillment options in low-margin regions.
+
+🔹 **Recommendation 4 — Regional Fulfillment Policy**
+
+Implement region-specific shipping policies rather than a uniform global approach to better align logistics costs with regional revenue potential.
 
 <br>
 
