@@ -100,7 +100,7 @@ Implement region-specific shipping policies rather than a uniform global approac
 
 Restricting Same Day and First Class shipping options in low-margin regions may negatively impact customer experience, particularly for customers who value fast delivery. This could lead to lower customer satisfaction scores or reduced repeat purchase rates in the short term.
 
-**Trade-off:**
+**🔹 Trade-off:**
 Margin improvement vs. potential decline in service-level perception.
 
 <br>
@@ -109,7 +109,7 @@ Margin improvement vs. potential decline in service-level perception.
 
 Introducing order-value thresholds for premium shipping may discourage smaller orders or increase cart abandonment rates, especially in price-sensitive markets.
 
-**Trade-off:**
+**🔹 Trade-off:**
 Improved unit economics vs. possible reduction in order volume.
 
 <br>
@@ -118,7 +118,7 @@ Improved unit economics vs. possible reduction in order volume.
 
 If competitors continue offering premium shipping options without restrictions, limiting these services may weaken competitive positioning in regions where delivery speed is a key differentiator.
 
-**Trade-off:**
+**🔹 Trade-off:**
 Cost control vs. market competitiveness.
 
 <br>
@@ -127,7 +127,7 @@ Cost control vs. market competitiveness.
 
 Implementing region-specific shipping rules increases operational complexity, requiring tighter coordination across logistics, pricing, and customer experience teams.
 
-**Trade-off:**
+**🔹 Trade-off:**
 More precise cost control vs. higher operational overhead.
 
 <br>
@@ -136,7 +136,7 @@ More precise cost control vs. higher operational overhead.
 
 Shipping mode changes assume that demand in loss-making regions is relatively inelastic to delivery speed. If customers are more sensitive to shipping speed than expected, order volume may decline more sharply than anticipated.
 
-**Trade-off:**
+**🔹 Trade-off:**
 Cost optimization vs. uncertainty in customer behavior response.
 
 <br>
@@ -145,7 +145,7 @@ Cost optimization vs. uncertainty in customer behavior response.
 
 Margin improvements from shipping policy changes may take time to materialize, while negative customer reactions could appear immediately.
 
-**Trade-off:**
+**🔹 Trade-off:**
 Short-term volatility vs. long-term profitability sustainability.
 
 <br>
