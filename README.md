@@ -77,7 +77,7 @@ High shipping costs in certain regions are eroding profit margins, causing those
 ## 📌 Business Recommendation
 🔹 **Recommendation 1 — Restrict Premium Shipping in Low-Margin Regions**
 
-    Limit Same Day and First Class shipping options in Guatemala and Ukraine, where unit-level profitability is consistently negative.
+Limit Same Day and First Class shipping options in Guatemala and Ukraine, where unit-level profitability is consistently negative.
 
 🔹 **Recommendation 2 — Introduce Order-Value Thresholds**
 
