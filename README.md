@@ -29,15 +29,15 @@ High shipping costs in certain regions are eroding profit margins, causing those
 <br>
 
 ## 📌 Business Question
-1️⃣ Which regions are underperforming in terms of profitability?
+1️⃣. Which regions are underperforming in terms of profitability?
 
-2️⃣ How significant is shipping cost relative to revenue across regions?
+2️⃣. How significant is shipping cost relative to revenue across regions?
 
-3️⃣ Is higher shipping cost associated with lower profit margins in certain regions?
+3️⃣. Is higher shipping cost associated with lower profit margins in certain regions?
 
-4️⃣ Are profit losses concentrated in a small number of regions with high shipping costs?
+4️⃣. Are profit losses concentrated in a small number of regions with high shipping costs?
 
-5️⃣ Which regions present the highest potential for margin improvement if shipping costs are optimized?
+5️⃣. Which regions present the highest potential for margin improvement if shipping costs are optimized?
 
 <br>
 
@@ -213,3 +213,15 @@ Improved long-term profitability governance
 <br>
 
 ## 📌 Next Steps
+
+**1️⃣. Apply Ship Mode Rules**
+
+Restrict Same Day and First Class shipping based on order value, margin, or region profitability.
+
+**2️⃣. Monitor Unit Economics**
+
+Track profit per order and shipping cost ratios post-implementation to ensure margins improve as expected.
+
+**3️⃣. Segment Regions**
+
+Classify regions by fulfillment viability and apply region-specific shipping strategies.
